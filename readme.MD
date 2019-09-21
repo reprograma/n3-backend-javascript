@@ -1,15 +1,15 @@
 # JavaScript
 
-*JavaScript* È uma linguagem de programaÁ„o client-side. Ela È utilizada para controlar o HTML e o CSS para manipular comportamentos na p·gina.
+*JavaScript* √© uma linguagem de programa√ß√£o client-side. Ela √© utilizada para controlar o HTML e o CSS para manipular comportamentos na p√°gina.
 
-JavaScript n„o tem nada a ver com Java!!
+JavaScript n√£o tem nada a ver com Java!!
 
-P·gina HTML:
+P√°gina HTML:
 
     <!DOCTYPE html>
     <html lang="pt-br">
       <head>
-        <title>TÌtulo</title>
+        <title>T√≠tulo</title>
         <meta charset="utf-8">
       </head>
       <body>
@@ -20,42 +20,45 @@ P·gina HTML:
 
 Script:
 
-   <script type="text/javascript">
-     alert('Hello World!');
-   </script>
+    <script type="text/javascript">
+      alert('Hello World!');
+    </script>
 
 
-## Adicionando JavaScript ‡ p·gina
+## Adicionando JavaScript √† p√°gina
 
-**1.** Inserindo cÛdigos na prÛpria p·gina (inline):
+**1.** Inserindo c√≥digos na pr√≥pria p√°gina (inline):
 
-Cria-se uma tag <script>, informando que o valor do atributo 'type' È 'text/javascript', ent„o, coloca-se o cÛdigo JavaScript dentro dessa tag.
+Cria-se uma tag <script>, informando que o valor do atributo 'type' √© 'text/javascript', ent√£o, coloca-se o c√≥digo JavaScript dentro dessa tag.
 
 Exemplo:
 
-   <script type="text/javascript">
-     alert('Hello World!');
-   </script>
+    <script type="text/javascript">
+      alert('Hello World!');
+    </script>
 
 
-**2.** Relacionando um arquivo externo na p·gina:
+**2.** Relacionando um arquivo externo na p√°gina:
 
 Exemplo 1 - adicionando um JavaScript do nosso projeto:
 
-Imagine que o projeto est· com a seguinte estrutura de diretÛrios:
+Imagine que o projeto est√° com a seguinte estrutura de diret√≥rios:
 
 projeto/
+
  |index.html
+ 
  |js/
+ 
   |script.js
 
-Assim, se queremos que a p·gina 'index.html' carregue o arquivo 'js/script.js', utilizamos a seguinte marcaÁ„o:
+Assim, se queremos que a p√°gina 'index.html' carregue o arquivo 'js/script.js', utilizamos a seguinte marca√ß√£o:
 
     <script type="text/javascript" src="js/script.js"></script>
 
 Exemplo 2 - adicionando um JavaScript da internet:
 
-Nesse exemplo, È carregado o framework JavaScript jQuery disponibilizado pela Google por um serviÁo de hospedagem de libraries (bibliotecas) JavaScript. DisponÌvel em https://developers.google.com/speed/libraries/devguide?hl=pt-br#jquery:
+Nesse exemplo, √© carregado o framework JavaScript jQuery disponibilizado pela Google por um servi√ßo de hospedagem de libraries (bibliotecas) JavaScript. Dispon√≠vel em https://developers.google.com/speed/libraries/devguide?hl=pt-br#jquery:
 
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 
