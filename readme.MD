@@ -49,5 +49,3 @@ Exemplo 2 - adicionando um JavaScript da internet:
 Nesse exemplo, é carregado o framework JavaScript jQuery disponibilizado pela Google por um serviço de hospedagem de libraries (bibliotecas) JavaScript. Disponível em https://developers.google.com/speed/libraries/devguide?hl=pt-br#jquery:
 
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-
-    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
