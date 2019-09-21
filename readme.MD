@@ -42,18 +42,6 @@ Exemplo:
 
 Exemplo 1 - adicionando um JavaScript do nosso projeto:
 
-Imagine que o projeto está com a seguinte estrutura de diretórios:
-
-projeto/
-
- |index.html
- 
- |js/
- 
-  |script.js
-
-Assim, se queremos que a página 'index.html' carregue o arquivo 'js/script.js', utilizamos a seguinte marcação:
-
     <script type="text/javascript" src="js/script.js"></script>
 
 Exemplo 2 - adicionando um JavaScript da internet:
