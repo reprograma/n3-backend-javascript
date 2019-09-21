@@ -1,51 +1,26 @@
 # JavaScript
 
-*JavaScript* é uma linguagem de programação client-side. Ela é utilizada para controlar o HTML e o CSS para manipular comportamentos na página.
+***JavaScript não tem nada a ver com Java!!***
 
-JavaScript não tem nada a ver com Java!!
+## Semana 2
 
-Página HTML:
+O cronograma pode ser alterado de acordo com a velocidade de aprendizado da turma.
 
-    <!DOCTYPE html>
-    <html lang="pt-br">
-      <head>
-        <title>Título</title>
-        <meta charset="utf-8">
-      </head>
-      <body>
- 
-      </body>
-    </html>
+### Aula 1
+- Conceitos Básicos
+- Variáveis
 
+### Aula 2
+- Tipos de Dados
+- Operadores
+- Blocos de função
 
-Script:
+### Aula 3
+- Funções nativas
 
-    <script type="text/javascript">
-      alert('Hello World!');
-    </script>
+### Aula 4 e 5
+- Estruturas condicionais
 
+## Semana 3
 
-## Adicionando JavaScript à página
-
-**1.** Inserindo códigos na própria página (inline):
-
-Cria-se uma tag <script>, informando que o valor do atributo 'type' é 'text/javascript', então, coloca-se o código JavaScript dentro dessa tag.
-
-Exemplo:
-
-    <script type="text/javascript">
-      alert('Hello World!');
-    </script>
-
-
-**2.** Relacionando um arquivo externo na página:
-
-Exemplo 1 - adicionando um JavaScript do nosso projeto:
-
-    <script type="text/javascript" src="js/script.js"></script>
-
-Exemplo 2 - adicionando um JavaScript da internet:
-
-Nesse exemplo, é carregado o framework JavaScript jQuery disponibilizado pela Google por um serviço de hospedagem de libraries (bibliotecas) JavaScript. Disponível em https://developers.google.com/speed/libraries/devguide?hl=pt-br#jquery:
-
-    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+Aguarde
