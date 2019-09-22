@@ -108,7 +108,7 @@ Operadores aritméticos tomam valores numéricos (sejam literais ou variáveis) 
 | Nome | Operador | Utilização | Descrição |
 | ---- | -------- | ---------- | --------- |
 | AND | && | expr1 && expr2 | Retorna expr1 caso possa ser convertido para falso; senão, retorna expr2. Assim, quando utilizado com valores booleanos, && retorna verdadeiro caso ambos operandos sejam verdadeiros; caso contrário, retorna falso | 
-| OU | (||) | expr1 || expr2 | Retorna expr1 caso possa ser convertido para verdadeiro; senão, retorna expr2. Assim, quando utilizado com valores booleanos, || retorna verdadeiro caso ambos os operandos sejam verdadeiro; se ambos forem falsos, retorna falso |
+| OU | &#124;&#124; | expr1 &#124;&#124; expr2 | Retorna expr1 caso possa ser convertido para verdadeiro; senão, retorna expr2. Assim, quando utilizado com valores booleanos, &#124;&#124; retorna verdadeiro caso ambos os operandos sejam verdadeiro; se ambos forem falsos, retorna falso |
 | NOT | ! | !expr | Retorna falso caso o único operando possa ser convertido para verdadeiro; senão, retorna verdadeiro |
 
 ### Operadores de string

@@ -15,10 +15,10 @@ O cronograma pode ser alterado de acordo com a velocidade de aprendizado da turm
 - Operadores
 
 ### Aula 3
-- Blocos de função
+- Funções
 
 ### Aula 4
-- Blocos de função (cont.)
+- Funções
 - Funções nativas
 
 ### Aula 5
