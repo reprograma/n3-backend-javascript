@@ -98,3 +98,22 @@ Você pode criar uma constante apenas de leitura por meio da palavra-chave const
 Uma constante não pode alterar seu valor por meio de uma atribuição ou ser declarada novamente enquanto o script está em execução. Deve ser inicializada com um valor.
 
 As regras de escopo para as constantes são as mesmas para as váriaveis let de escopo de bloco. Se a palavra-chave const for omitida, presume-se que o identificador represente uma variável.
+
+### Valores
+
+Uma variável declarada usando a declaração var ou let sem especificar o valor inicial tem o valor  undefined.
+
+    var a;
+    console.log("O valor de a é " + a); // saída "O valor de a é undefined"
+
+O valor undefined converte-se para NaN quando usado no contexto numérico.
+
+    var a;
+     console.log(a + 2);  // Avaliado como NaN
+
+A propriedade global NaN é um valor especial que significa Not-A-Number (não é um número).
+
+Quando você avalia uma variável nula, o valor nulo se comporta como 0 em contextos numéricos e como falso em contextos booleanos.
+
+    var n = null;
+    console.log(n * 32); // a saída para o console será 0.

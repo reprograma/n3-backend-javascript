@@ -1,4 +1,4 @@
-# JavaScript
+# Lógica de Programação com JavaScript
 
 ***JavaScript não tem nada a ver com Java!!***
 
@@ -13,12 +13,15 @@ O cronograma pode ser alterado de acordo com a velocidade de aprendizado da turm
 ### Aula 2
 - Tipos de Dados
 - Operadores
-- Blocos de função
 
 ### Aula 3
+- Blocos de função
+
+### Aula 4
+- Blocos de função (cont.)
 - Funções nativas
 
-### Aula 4 e 5
+### Aula 5
 - Estruturas condicionais
 
 ## Semana 3
