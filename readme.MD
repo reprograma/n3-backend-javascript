@@ -17,12 +17,8 @@ O cronograma pode ser alterado de acordo com a velocidade de aprendizado da turm
 ### Aula 3
 - Funções
 
-### Aula 4
-- Funções
-- Funções nativas
-
-### Aula 5
-- Estruturas condicionais
+### Aula 4 e 5
+- Estruturas Condicionais
 
 ## Semana 3
 
