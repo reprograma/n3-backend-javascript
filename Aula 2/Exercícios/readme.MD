@@ -1,6 +1,6 @@
-**1.** Crie uma função que receba 2 parâmetros e exiba o resultado e o resto da divisão entre eles;
+**1.** Crie uma função que receba 1 parâmetro e calcule 5% de desconto, retornando o valor do desconto;
 
-**2.** Crie uma função que receba 1 parâmetro e calcule 5% de desconto, retornando o valor do desconto;
+**2.** Crie uma função que receba 2 parâmetros e exiba o resultado e o resto da divisão entre eles;
 
 **3.** Crie uma função que recebe 2 parâmetros (altura e peso) e retorna o IMC;
 
