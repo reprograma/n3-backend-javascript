@@ -9,6 +9,9 @@
 ![Bhaskara](https://s2.static.brasilescola.uol.com.br/img/2016/04/formula-de-bhaskara-em-sua-forma-original.jpg "Bhaskara")
 
 **5.** Refatore seu código da questão anterior, de maneira que o novo código possua 3 funções: 
+  
   a. A primeira recebe 3 parâmetros e calcula apenas o resultado de "delta";
+  
   b. A segunda recebe 3 parâmetros e calcula o resultado de x';
+  
   c. A terceira recebe 3 parâmetros e calcula o resultado de x";
