@@ -15,3 +15,7 @@
   b. A segunda recebe 3 parâmetros e calcula o resultado de x';
   
   c. A terceira recebe 3 parâmetros e calcula o resultado de x";
+
+**6.** Crie uma função que calcule quantos dias o usuário viveu, baseado na idade;
+
+**7.** Crie uma função que calcule quantos batidas por dia dá um coração, considerando que, ele bate a 70 bpm;
