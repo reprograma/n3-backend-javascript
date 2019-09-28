@@ -28,4 +28,17 @@
 | 104 | Cheeseburguer | R$ 2,50 |
 | 105 | Refrigerante | R$ 1,00 |
 
+**7.** Escreva um código que receba dois número e determine qual o maior entre eles.
 
+**8.** Escreva um código que receba um número (1-7) e devolva o dia da semana correspondente.
+
+**9.** Escreva um código que receba um número (1-12), e diga qual mês e quantos dias ele tem.
+
+**10.** Utilizando switch-case, receba uma letra e determine se é uma vogal ou consoante.
+
+**11.** Escreva um código que receba três ângulos e determine se eles formam um triângulo válido.
+Em um triângulo válido, a soma dos três ângulos é igual a 180º.
+
+**12.** Vamos reescrever a função de Báskara. Para isso temos que verificar atráves de delta se é possível calcular x' e x". Se delta for menor que zero, a equação não tem raízes. Se delta for igual a zero, a equação tem uma raiz. Se delta for maior que zero, a equação tem duas raízes.
+
+**13.** Crie uma calculadora simples.
