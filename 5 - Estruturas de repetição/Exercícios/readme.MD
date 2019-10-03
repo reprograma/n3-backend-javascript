@@ -62,3 +62,17 @@
 >Pior nota: 7.5
 >
 >Média: 9.04
+
+**14.** Pangrama
+
+**15.** Fatorial
+
+**16.** Array de números randomicos
+
+**17.** Cara ou coroa várias vezes
+
+**18.** Padrão com asteriscos
+
+**19.** Padrão com números e asteriscos
+
+**20.** MMC
