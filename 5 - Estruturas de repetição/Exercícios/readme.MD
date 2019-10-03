@@ -101,6 +101,8 @@
 
 55555
 
+### Momentos de Tensão
+
 **19.** Pangrama é uma palavra que possui todas as letras do alfabeto. Faça um algoritmo que verifique se uma palavra é um pangrama ou não.
 
 **20.** Crie um algoritmo que dados dois números calcule o MMC (Mínimo Múltiplo Comum)
