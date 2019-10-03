@@ -63,16 +63,14 @@
 >
 >Média: 9.04
 
-**14.** Pangrama
+**14.** Pangrama é uma palavra que possui todas as letras do alfabeto. Faça um algoritmo que verifique se uma palavra é um pangrama ou não.
 
-**15.** Fatorial
+**15.** Para calcular o fatorial de um número, você multiplica todos os números menores que ele até 1. Por exemplo, 10! = 10 * 9 * 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1. Faça um algoritmo que dado um número calcule o fatorial do mesmo.
 
-**16.** Array de números randomicos
+**16.** Faça uma função que receba uma quantidade x e retorne um array com x números randomicos.
 
-**17.** Cara ou coroa várias vezes
+**17.** Faça um algoritmo que sortei cara (0) ou coroa (1) n vezes. E no fim mostre quantas vezes deu cara e quantas coroa.
 
-**18.** Padrão com asteriscos
 
-**19.** Padrão com números e asteriscos
 
 **20.** MMC
