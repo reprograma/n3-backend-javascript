@@ -27,6 +27,8 @@
 >
 >50 - R$ 99.50
 
+### Achei que era fácil
+
 **9.** Faça um programa que peça um número inteiro e determine se ele é ou não um número primo. Um número primo é aquele que é divisível somente por ele mesmo e por 1.
 
 **10.** A série de Fibonacci é formada pela seqüência 0,1,1,2,3,5,8,13,21,34,55,... Faça um programa capaz de gerar a série até o n−ésimo termo.
@@ -63,6 +65,8 @@
 >
 >Média: 9.04
 
+### Voltou a ficar fácil
+
 **14.** Para calcular o fatorial de um número, você multiplica todos os números menores que ele até 1. Por exemplo, 10! = 10 * 9 * 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1. Faça um algoritmo que dado um número calcule o fatorial do mesmo.
 
 **15.** Faça uma função que receba uma quantidade x e retorne um array com x números randomicos.
@@ -70,6 +74,7 @@
 **16.** Faça um algoritmo que sortei cara (0) ou coroa (1) n vezes. E no fim mostre quantas vezes deu cara e quantas coroa.
 
 **17.** Escreva um algoritmo que printe o seguinte padrão no console:
+
 \*\*\*\*\*\*\*
 
 \*\*\*\*\*\*
@@ -85,6 +90,7 @@
 \*
 
 **18.** Escreva um algoritmo que printe o seguinte padrão no console:
+
 1
 
 22
