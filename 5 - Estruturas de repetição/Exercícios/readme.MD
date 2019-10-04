@@ -103,6 +103,22 @@
 
 ### Momentos de Tensão
 
-**19.** Pangrama é uma palavra que possui todas as letras do alfabeto. Faça um algoritmo que verifique se uma palavra é um pangrama ou não.
+**19.** Pangrama é uma frase que possui todas as letras do alfabeto. Faça um algoritmo que verifique se uma palavra é um pangrama ou não.
 
 **20.** Crie um algoritmo que dados dois números calcule o MMC (Mínimo Múltiplo Comum)
+
+**21.** Escreva um loop em Javascript que printa o seguinte padrão no console:
+1******
+
+12*****
+
+123****
+
+1234***
+
+12345**
+
+123456*
+
+1234567
+
