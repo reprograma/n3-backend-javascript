@@ -1,5 +1,5 @@
-// Três desafios para fixarmos nosso aprendizado de arrays. Escolha pelo menos dois!
-// Todos podem ser resolvidos utilizando tanto o for clássico quanto os métodos modernos com callbacks. Tente fazer e depois refatorar seu código!
+// Dois desafios para fixarmos nosso aprendizado de arrays.
+// Ambos podem ser resolvidos utilizando tanto o for clássico quanto os métodos modernos com callbacks. Tente fazer e depois refatorar seu código!
 
 ////////////////////////////
 
@@ -43,27 +43,3 @@ O restante do processo é o mesmo: verifica-se se o resto de (verificadorDois * 
 
 Se os dois dígitos passarem pela verificação, o número de CPF é válido.
 */
-
-////////////////////////////
-
-/* CIFRA DE CÉSAR
-
-A cifra de César é uma das técnicas mais simples de cifrar uma mensagem. É um tipo de cifra por substituição, em que cada letra do texto original é substituída por outra que se encontra a um número fixo de posições (deslocamento) mais a frente do mesmo alfabeto.
-
-Por exemplo se usarmos o deslocamento (offset) de 3 posições:
-
-    Alfabeto sem cifrar: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
-    Alfabeto com cifra: D E F G H I J K L M N O P Q R S T U V W X Y Z A B C
-    A letra A será D
-    A palavra CASA será FDVD
-
-Seu objetivo é criar uma função que receba 2 parâmetros, a string a ser cifrada e o número de posições deslocadas. Essa função deverá retornar a string cifrada.
-
-Exemplo:
-
-function cypher(string, offset) {
-	// seu código aqui
-}
-
-cypher("ABC", 1) ==> //"BCD"
- */
