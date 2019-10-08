@@ -11,7 +11,7 @@
 // Se o array tiver um comprimento de 0, ele deve retornar undefined.
 
 // Exemplo de entrada:
-// console.log(pegaElemento([1, 3), 5], 1);
+// console.log(pegaElemento([1, 3, 5], 1);
 
 /////////////////////////////////
 
