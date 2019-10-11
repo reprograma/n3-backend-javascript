@@ -7,10 +7,10 @@ arr.length //5
 arr.pop() //[ 1, 2, 3, 4 ]
 
 // adiciona um ou mais elementos ao final de um array e retorna o novo comprimento desse array.
-arr.push(5)
+console.log(arr.push(5))//[ 1, 2, 3, 4, 5]
 
 // inverte os itens de um array. 
-arr.reverse()
+console.log(arr.reverse())
 
 // remove o primeiro elemento de um array e retorna esse elemento. Este método muda o tamanho do array. 
 arr.shift()
@@ -21,7 +21,7 @@ arr.unshift(5)
 // retorna o primeiro índice em que o elemento pode ser encontrado no array, retorna -1 caso o mesmo não esteja presente.
 const temNaArray = arr.indexOf(8)
 
-console.log(arr, temNaArray)z
+console.log(arr, temNaArray)
 
 //////////////////////////////////////////
 
@@ -45,6 +45,8 @@ console.log(arrSplice, removido)
 // O método slice() retorna uma cópia de parte de um array a partir de um subarray criado entre as posições início(begin) e fim(end)(fim não é necessário) de um array original. O Array original não é modificado.
 
 const maisUmaArray = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15];
+const rerer = maisUmaArray
+
 console.log("slice", maisUmaArray.slice(0));
 console.log("slice", maisUmaArray.slice(1));
 console.log("slice", maisUmaArray.slice(2));
@@ -60,6 +62,8 @@ console.log(maisUmaArray.indexOf(13));
 
 var array1 = ["a", "b", "c"];
 var array2 = ["d", "e", "f"];
+array1.push(array2)
+
 
 console.log(array1.concat(array2));
 
@@ -70,7 +74,7 @@ console.log(array1.concat(array2));
 var pokemon = ["Pikachu", "Bulbassauro", "Charizard", "Squirtle", "Toguepi", "Meowth"];
 
 console.log(pokemon.join());
-console.log(pokemon.join(''));
+console.log(pokemon.join(', '));
 console.log(pokemon.join('-'));
 
 //////////////////////////////////////////

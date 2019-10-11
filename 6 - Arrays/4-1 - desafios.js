@@ -24,6 +24,7 @@ O algoritmo de validação do CPF calcula o primeiro dígito verificador a parti
 ** Validação do primeiro dígito:
 
 Primeiramente multiplica-se os 9 primeiros dígitos pela sequência decrescente de números de 10 à 2 e soma os resultados.
+
 	const verificadorUm =	(n * 10) + (n * 9) + (n * 8) + (n * 7) + (n * 6) + (n * 5) + (n * 4) + (n * 3) + (n * 2)
 
 	O próximo passo da verificação também é simples, basta multiplicarmos esse resultado por 10 e dividirmos por 11.
